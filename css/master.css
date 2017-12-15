@@ -20,7 +20,10 @@
 }
 
 body {
-  background-color: #eef8ff;
+  background-color: #ddfff7;
+  color: #aa4465;
+  font-family: 'VT323', monospace;
+  font-size: 2em;
 }
 
 img {
@@ -30,11 +33,11 @@ img {
 }
 
 .shadow {
-  box-shadow: 5px 5px pink;  /*#99ffe6*/
+  box-shadow: 5px 5px #ffa69e;  /*#99ffe6*/
 }
 
 .border {
-  border: 1px solid #7d53de;
+  border: 1px solid #aa4465;
 }
 
 .wrapper {
@@ -50,8 +53,8 @@ img {
 .title-bar {
   width: 85%;
   height: 100%;
-  padding: 5px;
-  font-size: 2em;
+  padding: 3px;
+  font-size: 1.3em;
   position: sticky;
   background: #fff;
 }
@@ -104,7 +107,7 @@ img {
 .button {
   margin: 10px;
   height: 75%;
-  padding: 20px;
+  padding: 10px;
   background: #fff;
 }
 
