@@ -114,3 +114,14 @@ img {
 .button:hover {
   margin: 0px;
 }
+
+.page-container {
+  height: 100%;
+  padding: 5px;
+}
+
+.page {
+  width: 85%;
+  height: 500px;
+  background: #fff;
+}
