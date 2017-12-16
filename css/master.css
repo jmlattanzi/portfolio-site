@@ -23,7 +23,7 @@ body {
   background-color: #ddfff7;
   color: #aa4465;
   font-family: 'VT323', monospace;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 img {
@@ -55,7 +55,6 @@ img {
   height: 100%;
   padding: 3px;
   font-size: 1.3em;
-  position: sticky;
   background: #fff;
 }
 
@@ -79,7 +78,7 @@ img {
   height: 90%;
   width: 90%;
   margin-top: 10px;
-  background: #fff;
+  background-image: url("https://piskel-imgstore-b.appspot.com/img/26e57961-e22b-11e7-a0b6-ff448c528089.gif");
 }
 
 .info {
@@ -102,6 +101,7 @@ img {
 
 .nav-button {
   height: 100%;
+  margin-bottom: 10px;
 }
 
 .button {
@@ -123,4 +123,12 @@ img {
   width: 85%;
   height: 500px;
   background: #fff;
+}
+
+.time {
+  font-size: 3em;
+}
+
+.weather {
+  font-size: 2em;
 }
